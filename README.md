@@ -78,7 +78,7 @@
 * [로테이트 애니메이션 만들기](https://usinuniverse.bitbucket.io/blog/rotateanimation.html)
 * [iOS 다국어 지원(localization)하는 방법](https://usinuniverse.bitbucket.io/blog/localization.html)
 * [Debugging](https://usinuniverse.bitbucket.io/blog/debugging.html)
-* [프로토콜 초기구현](https://usinuniverse.bitbucket.io/blog/class-structure.html)
+* [프로토콜 초기구현](https://usinuniverse.bitbucket.io/blog/protocolextension.html)
 * [스위프트 고차함수 사용법](https://usinuniverse.bitbucket.io/blog/high-order-function.html)
 * [코드로 만드는 auto layout](https://usinuniverse.bitbucket.io/blog/autolayout.html)
 * [Today Extension 알아보기](https://usinuniverse.bitbucket.io/blog/todayextension.html)
