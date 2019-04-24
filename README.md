@@ -14,7 +14,7 @@
 * [체크리스트](https://usinuniverse.bitbucket.io/project/checklist.html)
 * [숫자 맞추기 게임](https://usinuniverse.bitbucket.io/project/bullseye.html)
 * [로그인 페이지](https://usinuniverse.bitbucket.io/project/loginpage.html)
-* [숫자 야구 게임](https://usinuniverse.bitbucket.io/project/lbaseballgame.html)
+* [숫자 야구 게임](https://usinuniverse.bitbucket.io/project/baseballgame.html)
 * [자판기 앱](https://usinuniverse.bitbucket.io/project/vendingmachine.html)
 
 ### Blog (오래된 순)
