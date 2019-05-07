@@ -105,3 +105,5 @@
 * [버전(Version) 표기법 제대로 알기](https://usinuniverse.bitbucket.io/blog/version.html)
 * [Swift의 Generic 빠르게 훑기](https://usinuniverse.bitbucket.io/blog/generic.html)
 * [Swift 5 변경사항](https://usinuniverse.bitbucket.io/blog/swift5.html)
+* [WKWebView의 버그](https://usinuniverse.bitbucket.io/blog/wkwebviewbug.html)
+* [싱글톤 패턴에서 구조체와 클래스의 차이](https://usinuniverse.bitbucket.io/blog/singleton.html)
