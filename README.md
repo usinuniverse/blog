@@ -10,7 +10,7 @@
 * [회원 가입](https://usinuniverse.bitbucket.io/project/signup.html)
 * [뮤직 플레이어](https://usinuniverse.bitbucket.io/project/musicplayer.html)
 * [채팅 앱](https://usinuniverse.bitbucket.io/project/chatting.html)
-* [볼드](https://usinuniverse.bitbucket.io/project/bold.html)
+* [볼드(출시)](https://usinuniverse.bitbucket.io/project/bold.html)
 * [요새먼지(출시)](https://usinuniverse.bitbucket.io/project/yosaemunge.html)
 * [체크리스트](https://usinuniverse.bitbucket.io/project/checklist.html)
 * [숫자 맞추기 게임](https://usinuniverse.bitbucket.io/project/bullseye.html)
