@@ -108,3 +108,4 @@
 * [Swift 5 변경사항](https://usinuniverse.bitbucket.io/blog/swift5.html)
 * [WKWebView의 버그](https://usinuniverse.bitbucket.io/blog/wkwebviewbug.html)
 * [싱글톤 패턴에서 구조체와 클래스의 차이](https://usinuniverse.bitbucket.io/blog/singleton.html)
+* [Realm과 Swift의 Set의 만남](https://usinuniverse.bitbucket.io/blog/realm-set.html)
