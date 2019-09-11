@@ -110,3 +110,4 @@
 * [싱글톤 패턴에서 구조체와 클래스의 차이](https://usinuniverse.bitbucket.io/blog/singleton.html)
 * [Realm과 Swift의 Set의 만남](https://usinuniverse.bitbucket.io/blog/realm-set.html)
 * [Hashable](https://usinuniverse.bitbucket.io/blog/hashable.html)
+* [Tap Gesture를 특정 View로 제한하는 방법](https://usinuniverse.bitbucket.io/blog/tapgesture.html)
