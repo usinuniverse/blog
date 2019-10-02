@@ -115,3 +115,4 @@
 * [Tap Gesture를 특정 View로 제한하는 방법](https://usinuniverse.bitbucket.io/blog/tapgesture.html)
 * [다크모드 적용](https://usinuniverse.bitbucket.io/blog/darkmode.html)
 * [선형 검색과 이진 검색](https://usinuniverse.bitbucket.io/blog/search-algorithm.html)
+* [Git flow 알아보기](https://usinuniverse.bitbucket.io/blog/gitflow.html)
