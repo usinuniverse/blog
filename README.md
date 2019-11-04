@@ -123,3 +123,4 @@
 * [RxSwift의 Filtering Operator](https://usinuniverse.bitbucket.io/blog/filteringoperator.html)
 * [RxSwift의 Transforming Opertator](https://usinuniverse.bitbucket.io/blog/transformingoperator.html)
 * [SceneDelegate와 AppDelegate part 1 [번역]](https://usinuniverse.bitbucket.io/blog/scenedelegatepart1.html)
+* [SceneDelegate와 AppDelegate part 2 [번역]](https://usinuniverse.bitbucket.io/blog/scenedelegatepart2.html)
