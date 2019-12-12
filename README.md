@@ -124,3 +124,5 @@
 * [RxSwift의 Transforming Opertator](https://usinuniverse.bitbucket.io/blog/transformingoperator.html)
 * [SceneDelegate와 AppDelegate part 1 [번역]](https://usinuniverse.bitbucket.io/blog/scenedelegatepart1.html)
 * [SceneDelegate와 AppDelegate part 2 [번역]](https://usinuniverse.bitbucket.io/blog/scenedelegatepart2.html)
+* [RxSwift의 Conditional Operator](https://usinuniverse.bitbucket.io/blog/conditionaloperator.html)
+* [RxSwift의 Time-based Operator](https://usinuniverse.bitbucket.io/blog/timebasedoperator.html)
