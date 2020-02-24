@@ -129,3 +129,4 @@
 * [RxSwift의 Time-based Operator](https://usinuniverse.bitbucket.io/blog/timebasedoperator.html)
 * [RxSwift의 Sharing Operator](https://usinuniverse.bitbucket.io/blog/sharingoperator.html)
 * [버블 정렬과 선택 정렬](https://usinuniverse.bitbucket.io/blog/sort-algorithm-1.html)
+* [삼각형 그리기](https://usinuniverse.bitbucket.io/blog/uibezierpath.html)
